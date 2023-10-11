@@ -1,0 +1,6 @@
+
+# ignone the following files
+*.tex
+*.Rhistory
+*.RData
+*.ipynb_checkpoints
